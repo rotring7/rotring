@@ -1,6 +1,7 @@
 {
   "feeds": [
-    "https://feeds.feedburner.com/zdnetkorea/news"
+    "https://feeds.feedburner.com/zdnetkorea/news",
+    "https://www.bloter.net/rss/allArticle.xml https://news.hada.io/rss/news https://yozm.wishket.com/magazine/feed/ https://techcrunch.com/feed/ https://www.wired.com/feed/rss"
   ],
   "reports": {
     "2026-02-14": "## 분석할 뉴스가 없습니다."
