@@ -2,9 +2,11 @@
   "feeds": [
     "https://feeds.feedburner.com/zdnetkorea/news"
   ],
-  "reports": {},
+  "reports": {
+    "2026-02-14": "## 분석할 뉴스가 없습니다."
+  },
   "stats": {
     "visits": 0,
-    "last_updated": ""
+    "last_updated": "2026-02-14 18:45:18"
   }
 }
