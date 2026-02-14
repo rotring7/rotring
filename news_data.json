@@ -8,10 +8,10 @@
     "https://www.wired.com/feed/rss"
   ],
   "reports": {
-    "2026-02-14": "## 분석할 뉴스가 없습니다."
+    "2026-02-14": "## AI 분석 중 오류 발생\n404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
   },
   "stats": {
     "visits": 0,
-    "last_updated": "2026-02-14 18:45:54"
+    "last_updated": "2026-02-14 18:47:31"
   }
 }
