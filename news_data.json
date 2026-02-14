@@ -1,6 +1,7 @@
 {
   "feeds": [
-    "https://feeds.feedburner.com/zdnetkorea/news"
+    "https://feeds.feedburner.com/zdnetkorea/news",
+    "https://www.bloter.net/rss/allArticle.xml "
   ],
   "reports": {
     "2026-02-14": "## 분석할 뉴스가 없습니다."
